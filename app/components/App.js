@@ -1,10 +1,11 @@
 var React = require('react')
+var Markets = require('./Markets')
 
 class App extends React.Component {
   render() {
     return (
       <div>
-        Bede Casino
+        <Markets />
       </div>
     )
   }
