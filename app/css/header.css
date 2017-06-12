@@ -1,0 +1,16 @@
+.header-container {
+    overflow: auto;
+}
+
+.logo-img {
+    float: left;
+}
+
+.header-title {
+    color: #DB0D17;
+    margin: 0 auto;
+    padding-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
