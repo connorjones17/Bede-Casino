@@ -1,6 +1,6 @@
 # Bede-Casino
 
-<h3>This repository is a very simple front-end betting page. It is built using React and sends off any data to [Bede's](http://bedegaming.com) test api </h3>  
+This repository is a very simple front-end betting page. It is built using React and sends off any data to [Bede's](http://bedegaming.com) test api
 
 <hr>
 
@@ -21,7 +21,7 @@ Install all the dependencies using npm
 Run the gulp command to compile all our css files into one index.css file or feel free to watch if you want make constant updates to the css
 
 ``` 
-$ gulp 
+$ gulp
   OR
 $ gulp watch
 ```
