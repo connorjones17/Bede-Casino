@@ -10,7 +10,7 @@ Clone this repository to your local machine
 
 ``` $ git clone git@github.com:connorjones17/Bede-Casino.git ```
 
-Go to directory
+Go to the project directory
 
 ``` $ cd Bede-Casino ```
 
@@ -33,5 +33,5 @@ This may take a second to compile and it will start up a server for you so pleas
 
 If you are curious to see what webpack outputs you can run this command and it will compile everything to the dist/ directory
 
-`` $ npm run create ```
+``` $ npm run create ```
 
