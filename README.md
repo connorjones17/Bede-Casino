@@ -1,6 +1,6 @@
 # Bede-Casino
 
-<h3>This repository is a very simple front-end betting page. It is built using React and sends off any data to [Bede's](http://bedegaming.com "Bede's Homepage") test api </h3>  
+<h3>This repository is a very simple front-end betting page. It is built using React and sends off any data to [Bede's](http://bedegaming.com) test api </h3>  
 
 <hr>
 
